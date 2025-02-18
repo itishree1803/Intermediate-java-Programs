@@ -9,3 +9,12 @@ This is an intermediate-level Java program that calculates income tax based on d
 - Accepts annual income as input.
 - Calculates tax based on income slabs.
 - Displays the total payable tax.
+
+# **2. [Stone, Paper and Scissor Game in Java](StonePaperScissor.java)**
+
+This is a Stone Paper Scissors game written in Java, where a player competes against the computer. The game is a simple implementation of the popular hand game.
+
+## **Features**
+- Player vs. computer.
+- Input validation.
+- Displays the winner or a tie.
