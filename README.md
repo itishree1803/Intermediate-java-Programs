@@ -9,9 +9,3 @@ This is an intermediate-level Java program that calculates income tax based on d
 - Accepts annual income as input.
 - Calculates tax based on income slabs.
 - Displays the total payable tax.
-
-## **Key Concepts Covered**
-- Conditional statements (`if-else`)
-- Floating-point calculations
-- User input handling with `Scanner`
-
